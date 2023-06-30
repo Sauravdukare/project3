@@ -1,0 +1,1 @@
+storing and transmitting the data in the form that only authenticated peoples can access it.
